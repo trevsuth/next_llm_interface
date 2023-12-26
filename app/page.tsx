@@ -5,8 +5,7 @@ export default function Home() {
   return (
     <>
       <Sidebar />
-      <div className={styles.homeContainer}> {/* Update this line */}
-        Home Page
+      <div className={styles.homeContainer}>
       </div>
     </>
   );

@@ -1,5 +1,8 @@
 .homeContainer {
+    min-height: 100vh;
+    background-color: white;
     background-image: url('/ref_thib_cir.gif');
-    background-size: cover;
-    background-position: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:auto;
   }

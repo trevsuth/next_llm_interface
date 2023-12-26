@@ -1,0 +1,22 @@
+.sidebar {
+    width: 25%;
+    float: left;
+    height: 100vh;
+    background: white;
+    padding: 20px;
+  }
+  
+  .linkList {
+    listStyleType: none;
+    padding: 0;
+  }
+  
+  .linkItem {
+    marginBottom: 10px;
+  }
+  
+  .link {
+    textDecoration: none;
+    color: black;
+  }
+  
